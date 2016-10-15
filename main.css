@@ -1,0 +1,30 @@
+#audio-logos {
+	background: #f9f9f9;
+	padding: 50px !important;
+	margin: 40px 0 60px !important;
+}
+
+#audio-logos h3 {
+	font-family: 'Convergence',sans-serif;
+}
+
+#audio-logos img {
+	max-width: 100%;
+	margin-bottom: 20px;
+}
+
+.tab-content {
+	margin-top: 10px;
+}
+
+.tab-content pre {
+	margin-top: 10px;
+}
+
+#change-colors label {
+	padding-top: 3px !important;
+}
+
+#scroll-to-top {
+	bottom: 90px !important;
+}
